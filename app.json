@@ -1,0 +1,5 @@
+{
+    "buildpacks": [
+        "mars/create-react-app"
+    ]
+}
